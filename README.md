@@ -24,8 +24,10 @@ I'm a backend developer, that started studies of the javascript stack. I trying 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ### You can reach me at 📫

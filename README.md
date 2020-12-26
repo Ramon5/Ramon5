@@ -45,4 +45,6 @@ I'm a backend developer, that started studies of the javascript stack. I trying 
   <a href="https://www.youtube.com/channel/UCgYXP-vsscy4n6jEp3FpCBQ">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Demanda Nerd YouTube Channel" height="30" width="30">
   </a>
+  <a href="ramon.srodrigues01@gmail.com">
+  <img alt="My e-mail" width="32"       src="https://camo.githubusercontent.com/f53fd6186571866557b804234abf75ab8588d1411fee00ae4a0881846928f16b/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3332342f3332343132332e737667" data-canonical-src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" style="max-width:100%;"></a>
 </p>

@@ -11,6 +11,7 @@ I'm a backend developer, that started studies of the javascript stack. I trying 
 - 📚 I’m currently learning algorithms and data structures with python, javascript stack, flask and django frameworks...
 - 👨🏻‍🎓 Currently student of Information Systems at UFVJM
 - 🏋️‍♂️ I love gym
+- 🎧 My favorite sounds is R&B, Pop and american Hip Hop
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>

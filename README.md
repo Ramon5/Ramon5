@@ -9,7 +9,7 @@ I'm a backend developer, that started studies of the javascript stack. I trying 
 - 🇧🇷 I'm brazilian developer.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Workalove Edtech.
 - 📚 I’m currently learning algorithms and data structures with python, javascript stack, flask and django frameworks...
-- 🎓 Currently student of Information Systems at UFVJM
+- 👨🏻‍🎓 Currently student of Information Systems at UFVJM
 - 🏋️‍♂️ I love gym
 
 <p align="center">

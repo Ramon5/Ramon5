@@ -16,18 +16,24 @@ I'm a backend developer, that started studies of the javascript stack. I trying 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="django" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png" alt="flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="flask" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="vscode" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="vscode" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ### You can reach me at 📫

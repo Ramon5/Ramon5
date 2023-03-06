@@ -2,7 +2,7 @@
 
 **Welcome to my profile**
 
-I'm a backend developer, that started studies of the javascript stack. I trying dominate frontend habilities.
+I'm a Software Engineer since 2018.
 
 **Here are some stuffs about me**
  

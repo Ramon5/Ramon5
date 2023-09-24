@@ -7,7 +7,7 @@ I'm a Software Engineer since 2018.
 **Here are some stuffs about me**
  
 - 🇧🇷 I'm brazilian developer.
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Azos.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Globo.
 - 📚 I’m currently learning algorithms and data structures with python, FastAPI, flask and django frameworks.
 - 👨🏻‍🎓 Bachelor in Information Systems by UFVJM
 - 🏋️‍♂️ I love gym

@@ -8,7 +8,7 @@ I'm a Software Engineer since 2018.
  
 - 🇧🇷 I'm brazilian developer.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Globo.
-- 📚 I’m currently learning algorithms and data structures with python, FastAPI, flask and django frameworks.
+- 📚 I’m currently learning algorithms and data structures with Python and Golang.
 - 👨🏻‍🎓 Bachelor in Information Systems by UFVJM
 - 🏋️‍♂️ I love gym
 - 🎧 My favorite sounds is R&B, Pop and american Hip Hop
